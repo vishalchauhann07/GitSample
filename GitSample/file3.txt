@@ -1,0 +1,10 @@
+> git branch 
+> git branch main 
+		--> creates a new branch 
+> git checkout main  
+		--> use the main branch as the default branch
+> git pull origin main --allow-unrelated-histories 
+> notepad file4.txt 
+> git add file4.txt 
+> git commit -m "New file added" 
+> git push -u origin main
